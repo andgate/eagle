@@ -1,0 +1,15 @@
+{
+  "name": "eagle",
+  "version": "1.0.0",
+  "description": "Structural Editor for Hawk",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/andgate/eagle"
+  },
+  "author": "Gabriel Anderson",
+  "license": "ISC"
+}
